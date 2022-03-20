@@ -5,6 +5,5 @@
 >![主活动布局](https://github.com/OoShawnoO/work_1/blob/master/1.png)
 >![主活动布局](https://github.com/OoShawnoO/work_1/blob/master/2.png)
 
--`使用线性布局完成一个列表视图`
->完成情况如下图：
+-`使用线性布局完成一个列表视图完成情况如下图：` 
 >![线性布局](https://github.com/OoShawnoO/work_1/blob/master/3.png)
